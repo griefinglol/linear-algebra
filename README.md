@@ -1,2 +1,2 @@
-# linear-algorithm
-linear-algorithm学习笔记
+# linear-algebra
+linear-algebra学习笔记
